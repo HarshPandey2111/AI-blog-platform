@@ -57,9 +57,7 @@ A modern blog platform built with React, Supabase, and OpenAI integration for au
 - Delete posts
 - Automatic AI-powered enhancements
 
-## Deployment
 
-The application is deployed at: [Live Demo URL]
 
 ## License
 
